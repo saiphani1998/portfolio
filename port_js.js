@@ -9,8 +9,8 @@ function skill(x)
 	}
 	else
 	{
-		document.getElementById("skills").style.backgroundColor="CornflowerBlue";
-		document.getElementById("description").style.color="red";
+		document.getElementById("skills").style.backgroundColor="#9933cc";
+		document.getElementById("description").style.color="#ffffff";
 		document.getElementById("description").innerHTML ="<ul> <li><b>Communication Skills&emsp;</b></li> <li><b>Logical Thinking</b></li> <li><b>HardWorking Nature</b></li> </ul>";
 	}
 	
