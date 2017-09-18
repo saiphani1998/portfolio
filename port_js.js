@@ -5,7 +5,7 @@ function skill(x)
 	{
 		document.getElementById("skills").style.backgroundColor="#9933cc";
 		document.getElementById("description").style.color="#ffffff";
-		document.getElementById("description").innerHTML ="<ul> <li><b>HTML5&CSS3</b></li> <li><b>JAVASCRIPT</b></li> <li><b>C Programming</b></li> <li><b>CORE JAVA</b></li> <li><b>ADV JAVA</b></li> </ul>";
+		document.getElementById("description").innerHTML ="<ul> <li><b>HTML5 & CSS3</b></li> <li><b>JAVASCRIPT</b></li> <li><b>C Programming</b></li> <li><b>CORE JAVA</b></li> <li><b>ADV JAVA</b></li> </ul>";
 	}
 	else
 	{
