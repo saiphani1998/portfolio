@@ -102,7 +102,7 @@ INTRO SECTION
 
 .intro{ padding: 0 20px; margin-top: 100px; text-align: center; background: #fff; }
 
-.intro .profile-img{ height: 200px; width: 200px; border-radius: 100px; margin: 0 auto;
+.intro .profile-img{ height: 200px; width: 200px; color: white; border-radius: 45px; margin: 0 auto;
 	overflow: hidden; position: relative; top: -100px; margin-bottom: -70px;  }
 
 .intro .information > li{ display: block; margin: 5px 0; }
@@ -131,7 +131,6 @@ ABOUT SECTION
 
 .radial-progress .progress-title{ position: absolute; top: 50%; left: 50%; width: 100%;
 	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #777; }
-
 
 
 /* ---------------------------------
@@ -172,17 +171,6 @@ EDUCATION SECTION
 	height: 16px; border-radius: 10px; z-index: 1;
 	box-shadow: 0 0 0 8px rgba(255,171,0, .4); background: #FFAB00; }
 
-/* RADIAL PREOGRESS SECTION */
-
-.radial-progress{ position: relative; max-width: 200px; margin: 0 auto; }
-
-.radial-progress .progressbar-text{ font-size: 2.2em; font-weight: 500;
-	padding-bottom: 25px!important; color: #333!important; }
-
-.radial-progress .progressbar-text:after{ content:'%'; }
-
-.radial-progress .progress-title{ position: absolute; top: 50%; left: 50%; width: 100%;
-	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #777; }
 
 /* ---------------------------------
 FOOTER
